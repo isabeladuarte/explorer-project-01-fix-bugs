@@ -17,7 +17,7 @@ Esse desafio tem como objetivo de corrigir os bugs no projeto que foi proposto d
 <br>
 
 <p align="center">
-  <img src="./images/img-readme.JPG" width="50%">
+  <img src="./images/img-readme.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
